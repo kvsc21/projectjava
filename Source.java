@@ -10,6 +10,7 @@ public class Source {
         ninja.escape();
         knight.showWeapon();
         ninja.showWeapon();
+		 /*End of the program*/
     }
 }
 
